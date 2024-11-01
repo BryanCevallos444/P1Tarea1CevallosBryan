@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1730475127 source:c:\users\ceval\onedrive\documents\code block\p1tarea1cevallosbryan\main.cpp
+	<iostream>
+	"menu.h"
+
+1730491541 c:\users\ceval\onedrive\documents\code block\p1tarea1cevallosbryan\menu.h
+	<iostream>
+	<fstream>
+
